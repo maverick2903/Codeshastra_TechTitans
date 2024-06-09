@@ -5,7 +5,7 @@
 <h1 align="center"> AIVA </h1> <br>
 <p align="center">
   <a href="https://aiva.vercel.app/">
-    <img alt="AIVA logo" title="AIVA" src="https://example.com/aiva-logo.png" width="50">
+    <img alt="AIVA logo" title="AIVA" src="[https://example.com/aiva-logo.png](https://i.imgur.com/VG4sWpm.jpeg)" width="50">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1XYZ1234abcdEFGH5678ijklMNO9PQR?usp=sharing">
-    <img alt="Download APK" title="Google Drive" src="https://i.imgur.com/fAu5b8V.png" width="100">
+    Watch video here
   </a>
 </p>
 
