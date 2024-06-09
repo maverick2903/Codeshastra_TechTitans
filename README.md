@@ -4,8 +4,8 @@
 
 <h1 align="center"> AIVA </h1> <br>
 <p align="center">
-  <a href="https://aiva.vercel.app/">
-    <img alt="AIVA logo" title="AIVA" src="[https://example.com/aiva-logo.png](https://i.imgur.com/VG4sWpm.jpeg)" width="50">
+  <a href="https://aiva-deployement.vercel.app/eng">
+    <img alt="AIVA logo" title="AIVA" src="https://i.imgur.com/VG4sWpm.jpeg" width="50">
   </a>
 </p>
 
