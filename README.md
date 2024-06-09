@@ -64,7 +64,7 @@ AIVA consists of:
 </ul>
 
 ## Screenshots
-
+<!--
 ### Web
 <p>
 [![Video of working](https://example.com/aiva-demo-video.png)](https://www.youtube.com/watch?v=example-video)
@@ -103,5 +103,5 @@ AIVA consists of:
 </p>
 <p float="left">
   <img src="https://example.com/aiva-app-screenshot11.jpg" width="400" padding="2"/>
-</p>
+</p> -->
 
